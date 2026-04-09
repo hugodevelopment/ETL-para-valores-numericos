@@ -1,0 +1,17 @@
+etl-valores/
+│
+├── data/
+│   ├── input/
+│   │   └── valores.txt
+│   └── output/
+│       └── valores_processados.xlsx
+│
+├── src/
+│   ├── __init__.py
+│   ├── extractor.py
+│   ├── transformer.py
+│   ├── loader.py
+│
+├── main.py
+├── requirements.txt
+└── README.md
