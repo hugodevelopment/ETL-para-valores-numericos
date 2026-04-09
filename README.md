@@ -9,13 +9,16 @@ Resultado: não dava pra somar no Power Pivot e criar tabelas dinâmicas que me 
 
 Para resolver isso criei um pequeno ETL em Python para:
 
-1º limpar os dados da coluna;
-2º padronizar os valores; 
-3º garantir tipo numérico;
-4º Criar de uma maneira estruturada um pipeline
+- 1º limpar os dados da coluna;
+  
+- 2º padronizar os valores;
+  
+- 3º garantir tipo numérico;
+  
+- 4º Criar de uma maneira estruturada um pipeline
 
 Depois disso:
 
-✔ Consegui usar o Power Pivot corretamente e criar as tabelas necessárias;
-✔ Criei relacionamentos no modelo para fazer filtros personalidados;
-✔ Melhorei a análise sem precisar retrabalho manual
+- ✔ Consegui usar o Power Pivot corretamente e criar as tabelas necessárias;
+- ✔ Criei relacionamentos no modelo para fazer filtros personalidados;
+- ✔ Melhorei a análise sem precisar retrabalho manual
